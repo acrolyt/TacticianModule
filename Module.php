@@ -1,12 +1,5 @@
 <?php
-/**
- * Created by Gary Hockin.
- * Date: 12/01/15
- * @GeeH
- */
-
-namespace TacticianModule;
-
+namespace CommandBus;
 
 class Module
 {
@@ -25,4 +18,5 @@ class Module
             ),
         );
     }
+
 }
